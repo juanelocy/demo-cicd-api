@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M7gaSO0+Ybtp1FEX/zRuLzxV+LJQJIWfYmvL+l1/3hA=",
+  "Source": "Demo.CICD.Api",
+  "BasePath": "_content/Demo.CICD.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@Demo.CICD.Api_HostAddress = http://localhost:5070
+
+GET {{Demo.CICD.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
