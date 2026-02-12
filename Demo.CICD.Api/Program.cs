@@ -1,6 +1,3 @@
-using Swashbuckle.AspNetCore;
-var builder = WebApplication.CreateBuilder(args);
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -23,3 +20,6 @@ app.MapGet("/version", () => Results.Ok(new
 }));
 
 app.Run();
+
+// Necesario para los tests de integración
+public partial class Program { }

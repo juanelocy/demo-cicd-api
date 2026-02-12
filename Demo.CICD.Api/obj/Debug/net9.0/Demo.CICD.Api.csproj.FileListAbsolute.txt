@@ -34,3 +34,4 @@ C:\Users\LENOVO\Documents\8vo\Arquitectura de Software\Unidad 3\U3Lab2\Demo.CICD
 C:\Users\LENOVO\Documents\8vo\Arquitectura de Software\Unidad 3\U3Lab2\Demo.CICD.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\LENOVO\Documents\8vo\Arquitectura de Software\Unidad 3\U3Lab2\Demo.CICD.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\LENOVO\Documents\8vo\Arquitectura de Software\Unidad 3\U3Lab2\Demo.CICD.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Documents\8vo\Arquitectura de Software\Unidad 3\U3Lab2\Demo.CICD.Api\obj\Debug\net9.0\Demo.CICD.Api.sourcelink.json
